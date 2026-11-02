@@ -11,3 +11,8 @@ i will join mfile in 1st December.
 abcdefghijklmnopqrstuvwxyz.
 
 the quick brown fox jumps over the lazy dog.
+<<<<<<< HEAD
+=======
+
+im practicing git bash terminal command....
+>>>>>>> feature2
