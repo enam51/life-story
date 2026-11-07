@@ -16,3 +16,6 @@ the quick brown fox jumps over the lazy dog.
 
 im practicing git bash terminal command....
 >>>>>>> feature2
+
+
+logo alignment centred.
